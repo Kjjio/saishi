@@ -1,6 +1,6 @@
-# 赛事统计
-这是一款可以统计比赛的app，你可以用来记录任何你想记录的比赛。
-每场比赛可以有两个队伍参赛，每支队伍可以添加n个队员，并且每支队伍可以设置自己不同的标识。
-比赛过程中可以暂停，或者重新开始比赛，app会自动帮你计时，比赛结束会自动保存到历史记录中，你可以随时查看。
+# Race details - race record statistics
+This is a game statistics app, you can use to record any game you want to record.  
+Each game can have two teams, each team can add n players, and each team can set its own different logo.  
+During the game, you can pause or restart the game, and the app will automatically time you. The end of the game will be automatically saved into the history record, which you can check at any time.  
 
-联系我们：电话+8618776453647 邮箱：189747563@qq.com
+Contact Us：tel:+8618776453647 email：189747563@qq.com
